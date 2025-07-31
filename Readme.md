@@ -56,28 +56,10 @@ This project is designed to simulate a real-world automotive CRM, showcasing dat
 
 ---
 
-## 🧪 Testing & Deployment
-
-- ✔️ Apex test classes with >75% code coverage
-- 🧪 Manual test cases with screenshots for all modules
-- 🔁 Deployed using Change Sets
-- 🗂️ Post-deployment verification (profiles, permissions, triggers)
-
----
-
 ## 🖼️ Schema Diagram
 
 > Created using Salesforce **Schema Builder**  
 > ![Schema Screenshot](./ScreenShots/Schema.png)
-
----
-
-## 📈 Future Enhancements
-
-- 🔹 Lightning Web Components (LWC) for interactive UI
-- 🔹 Email-to-Case / WhatsApp integration for customer support
-- 🔹 Einstein Analytics for predictive insights
-- 🔹 Approval processes for order and service escalation
 
 ---
 
