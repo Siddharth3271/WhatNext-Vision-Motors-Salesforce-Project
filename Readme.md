@@ -67,11 +67,11 @@ This project is designed to simulate a real-world automotive CRM, showcasing dat
 
 **[Siddharth Shukla]**  
 Aspiring Salesforce Developer | Java Backend Enthusiast  
-📧 Email: shuklasiddharth418@gmail.com 
-🔗 GitHub: [Github](https://github.com/Siddharth3271)  
-🔗 LinkedIn: [Linkedln](https://www.linkedin.com/in/siddharth-shukla-61ab0124b/)
-🔗 Trailhead Profile: [Trailhead](https://www.salesforce.com/trailblazer/t4xjwufeq6z52ew25b)
-🔗 Certificate Link :[Certificate](https://drive.google.com/file/d/1pe0ppxDxKLHKR5UpkZRki5eDYui4TFzk/view?usp=sharing)
+- 📧 Email: shuklasiddharth418@gmail.com 
+- 🔗 GitHub: [Github](https://github.com/Siddharth3271)  
+- 🔗 LinkedIn: [Linkedln](https://www.linkedin.com/in/siddharth-shukla-61ab0124b/)
+- 🔗 Trailhead Profile: [Trailhead](https://www.salesforce.com/trailblazer/t4xjwufeq6z52ew25b)
+- 🔗 Certificate Link :[Certificate](https://drive.google.com/file/d/1pe0ppxDxKLHKR5UpkZRki5eDYui4TFzk/view?usp=sharing)
 
 ---
 
